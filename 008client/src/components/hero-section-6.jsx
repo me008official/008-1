@@ -19,7 +19,7 @@ export default function HeroSection() {
                                     href="/"
                                     className="flex w-fit items-center gap-2 font-medium">
                                     <span>New</span>
-                                    <span className="text-muted-foreground">Introducing Tailark Dusk 1.0</span>
+                                    <span className="text-muted-foreground">Introducing 008 Dev 0.8</span>
 
                                     <ArrowRight className="size-3.5" />
                                 </Link>
