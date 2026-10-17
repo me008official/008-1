@@ -47,7 +47,7 @@ export default function HeroSection() {
                                         />
                                         <Image
                                             className="bg-background aspect-15/8 relative rounded-2xl"
-                                            src="https://raw.githubusercontent.com/me008official/008-1/refs/heads/main/008client/public/arcitucture.jpg"
+                                            src="/arcitucture.jpg"
                                             alt="app screen"
                                             width="2700"
                                             height="1440"
